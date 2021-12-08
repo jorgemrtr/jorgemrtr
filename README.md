@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi nice to meet you 👋, My name is jorgemrtr 
 
-<!--
-**jorgemrtr/jorgemrtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a young developer from Spain interested in improving my skills and my knowledge, starting new projects and exploring different fields related to IT and self grow.
 
-Here are some ideas to get you started:
+There aren't many repositories to show yet, since I started coding not too long ago. I hope that my project list will grow into something I can be proud of...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My current interests
+- Improve as a developer
+  - Learning popular frameworks from languages I know: react, angular, laravel, electron...
+  - How to improve the quality of my code
+- Organizing myself better
+- Focus on self improvement
+- Joining comunitys and contributing to projects on Github
+
+## Fields I'm interested in
+- Videogames
+- Windows & Linux
+- Open source
+- Productivity
+- Self Grow
