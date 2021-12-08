@@ -12,7 +12,7 @@ There aren't many repositories to show yet, since I started coding not too long 
 - Focus on self improvement
 - Joining comunitys and contributing to projects on Github
 
-## Fields I'm interested in
+## Fields I'm also interested in
 - Videogames
 - Windows & Linux
 - Open source
