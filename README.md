@@ -17,4 +17,3 @@ There aren't many repositories to show yet, since I started coding not too long 
 - Windows & Linux
 - Open source
 - Productivity
-- Self Grow
