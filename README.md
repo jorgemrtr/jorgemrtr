@@ -7,10 +7,10 @@ There aren't many repositories to show yet, since I started coding not too long 
 ## My current interests
 - Improve as a developer
   - Learning popular frameworks from languages I know: react, angular, laravel, electron...
-  - How to improve the quality of my code
+  - Improving my code quality
 - Organizing myself better
-- Focus on self improvement
-- Joining comunitys and contributing to projects on Github
+- Focus on self-improvement
+- Joining comunities and contributing to projects on Github
 
 ## Fields I'm also interested in
 - Videogames
