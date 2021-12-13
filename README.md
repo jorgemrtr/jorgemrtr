@@ -19,5 +19,5 @@ There aren't many repositories to show yet, since I started coding not too long 
 - Productivity
 
 ### Current projects outside of programing
-- Learn touch typing and achieve 85 words per minute with high accuracy
-- Create and mprove my personal knowledge system / second brain using the Obsidian note taking app
+- Learn touch typing and achieve 85 wpm with high accuracy
+- Create and improve my personal knowledge system / second brain using the Obsidian note taking app
