@@ -1,4 +1,4 @@
-Ver [readme en Español](README.md)
+Ver [Readme en Español](README.md)
 
 ## Hi nice to meet you 👋, My name is Jorge Torubi 
 
