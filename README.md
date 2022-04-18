@@ -1,4 +1,4 @@
-[View Readme in English](README_EN.md).
+View [Readme in English](README_EN.md).
 
 ## Encantado de conocerte 👋, Soy Jorge Torubi
 
