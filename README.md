@@ -1,23 +1,24 @@
-## Hi nice to meet you 👋, My name is jorgemrtr 
+## Encantado de conocerte 👋, Soy Jorge Torubi
 
-I am a developer interested in improving my skills and my knowledge, starting new projects and exploring different fields related to IT and self grow.
+Soy desarrollador y busco seguir avanzando, mejorando mis habilidades y conocimientos, empezar nuevos proyectos y explorar sobre nuevos campos de la informática y el crecimiento personal
 
-There aren't many repositories to show yet, since I started coding not too long ago. I hope that my project list will grow into something I can be proud of...
+Todavia no hay demasiados repositorios, quiero hacer crecer esta lista en algo de lo que sentirme orgulloso
 
-### My current interests
-- Improve as a developer
-  - Learning popular frameworks from languages I know: react, angular, laravel, electron...
-  - Improving my code quality
-- Organizing myself better
-- Focus on self-improvement
-- Joining comunities and contributing to projects on Github
+### Mis intereses actuales
+- Mejorar como programador
+  - Masterizar javascript tanto en front-end como back-end
+  - Aprender sobre los frameworks populares
+  - Mejorar la calidad de mi codigo
+- Organizarme mejor
+- Trabajar en crecimiento personal
+- Unirme a comunidades y colaborar en proyectos dentro de GitHub
 
-### Fields I'm also interested in
-- Videogames
+### Otros campos que me interesan
+- Videojuegos
 - Windows & Linux
 - Open source
-- Productivity
+- Productividad
 
-### Current projects outside of programing
-- Learn touch typing and achieve 85 wpm with high accuracy
-- Create and improve my personal knowledge system / second brain using the Obsidian note taking app
+### Otros proyectos fuera de programación
+- Aprender touch typing y llegar a 85 wpm
+- Crear y mejorar mi sistema de gestión personal / second brain con la app obsidian
