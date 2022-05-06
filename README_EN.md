@@ -1,6 +1,6 @@
 Ver [Readme en Español](README.md)
 
-## Hi nice to meet you 👋, My name is Jorge Torubi 
+## Hi nice to meet you 👋, My name is Torrudev
 
 I am a developer interested in improving my skills and my knowledge, starting new projects and exploring different fields related to IT and self grow.
 
