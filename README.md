@@ -1,6 +1,6 @@
 View [Readme in English](README_EN.md).
 
-## Encantado de conocerte 👋, Soy Jorge Torubi
+## Encantado de conocerte 👋, Soy Torrudev
 
 Soy desarrollador y busco seguir avanzando, mejorando mis habilidades y conocimientos, empezar nuevos proyectos y explorar sobre nuevos campos de la informática y el crecimiento personal
 
